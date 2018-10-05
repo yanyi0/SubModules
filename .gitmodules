@@ -1,0 +1,6 @@
+[submodule "ASubModule"]
+	path = ASubModule
+	url = https://github.com/yanyi0/ASubModule.git
+[submodule "BSubModule"]
+	path = BSubModule
+	url = https://github.com/yanyi0/BSubModule.git
